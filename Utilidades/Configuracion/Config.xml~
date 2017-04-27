@@ -1,0 +1,6 @@
+<Config>
+  <ETICONTEO>10</ETICONTEO>
+  <ITERACIONES>20000</ITERACIONES>
+  <RUTAENTRENAMIENTO>/home/pmoran/Documents/codigo python/Proyv0.0.1/Entrenamiento/</RUTAENTRENAMIENTO>
+  <RUTASESSION>/home/pmoran/Documents/codigo python/Proyv0.0.1/Tensor/Modelo/Session/</RUTASESSION>
+</Config>

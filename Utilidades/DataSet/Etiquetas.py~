@@ -1,0 +1,6 @@
+class EtiquetaDT:
+	
+	def __init__(self):
+		self.list_etiquetas = []
+		self.etiquetas = []
+		self.num_etiquetas = 0		
